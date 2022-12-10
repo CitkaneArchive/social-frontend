@@ -13,7 +13,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "config": "^3.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.5.1",
     "socket.io": "^2.2.0",
     "socketio-wildcard": "^2.0.0",
